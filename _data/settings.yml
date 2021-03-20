@@ -76,7 +76,7 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Anonymous"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
     
@@ -94,10 +94,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Pyrhon, color: '#fdb157', value: '90%'}
 - {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Web design, color: '#bdecf6', value: '80%'}
+- {name: c++, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
