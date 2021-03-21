@@ -41,10 +41,10 @@ hero:
   hero-title: Hi! I’m <br> Pranav Ajay <br> Developer
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "facebook.com"}
+- {icon: "ti-instagram", link: "instagram.com"}
+- {icon: "ti-dribbble", link: "dribble.com"}
+- {icon: "ti-twitter", link: "twitter.com"}
 
 
 #-------------------------------
