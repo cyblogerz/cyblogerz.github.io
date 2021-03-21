@@ -94,7 +94,7 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Pyrhon, color: '#fdb157', value: '90%'}
+- {name: Python, color: '#fdb157', value: '90%'}
 - {name: Logo Design, color: '#9473e6', value: '60%'}
 - {name: Web design, color: '#bdecf6', value: '80%'}
 - {name: c++, color: '#ffbcaa', value: '70%'}
@@ -127,13 +127,13 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Web developing,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Python developing,
     icon: ti-vector,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
