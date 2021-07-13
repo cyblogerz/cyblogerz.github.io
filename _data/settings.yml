@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Cyblogerz
+title: Pranav Ajay
 logo: 
 author: Pranav Ajay
 description: Welcome to my portfolio site. Here you can know more about me
@@ -95,7 +95,7 @@ team:
 skills-title: Skills
 skills:
 - {name: Python, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: Django, color: '#9473e6', value: '60%'}
 - {name: Web design, color: '#bdecf6', value: '80%'}
 - {name: c++, color: '#ffbcaa', value: '70%'}
 
